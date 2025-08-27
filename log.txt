@@ -1,5 +1,5 @@
-GHSA-pw25-c82r-75mm
-GHSA-847f-9342-265h
+GHSA-vj54-72f3-p5jv
+GHSA-8mvj-3j78-4qmw
 GHSA-5cmr-4px5-23pc
 GHSA-crcq-738g-pqvc
 GHSA-6hgw-6x87-578x
