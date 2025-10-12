@@ -1,9 +1,9 @@
-GHSA-37j7-fg3j-429f
-GHSA-5ff5-9fcw-vg88
-GHSA-33f4-mjch-7fpr
-GHSA-p34h-wq7j-h5v6
-GHSA-r7r6-cc7p-4v5m
-GHSA-mr3q-g2mv-mr4q
+GHSA-h6m2-r6h9-4c44
+GHSA-63wh-p5fx-h4vc
+GHSA-fhw8-8v9p-7jp7
+GHSA-q5r6-9qwq-g2wj
+GHSA-wv4w-6qv2-qqfg
+GHSA-wqm3-w3p6-xjgm
 GHSA-pq5p-34cr-23v9
 GHSA-6xw4-3v39-52mm
 GHSA-r657-rxjc-j557
