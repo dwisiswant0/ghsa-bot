@@ -1,8 +1,8 @@
-GHSA-mqhg-v22x-pqj8
-GHSA-x5rw-qvvp-5cgm
-GHSA-5j4h-4f72-qpm6
-GHSA-9hvg-qw5q-wqwp
-GHSA-2mwc-h2mg-v6p8
+GHSA-95qg-89c2-w5hj
+GHSA-7rvh-xqp3-pr8j
+GHSA-p27m-hp98-6637
+GHSA-j4pr-3wm6-xx2r
+GHSA-6rw7-vpxm-498p
 GHSA-6h7w-v2xr-mqvw
 GHSA-gvq6-hvvp-h34h
 GHSA-34wm-4hw7-qfjv
