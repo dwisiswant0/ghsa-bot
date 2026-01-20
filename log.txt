@@ -1,6 +1,6 @@
-GHSA-g2pg-6438-jwpf
-GHSA-cphf-4846-3xx9
-GHSA-f2ph-gc9m-q55f
+GHSA-8qq5-rm4j-mr97
+GHSA-232v-j27c-5pp6
+GHSA-53wg-r69p-v3r7
 GHSA-cc8m-98fm-rc9g
 GHSA-qh8m-9qxx-53m5
 GHSA-pcjq-j3mq-jv5j
