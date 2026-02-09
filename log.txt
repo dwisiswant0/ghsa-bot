@@ -1,5 +1,5 @@
-GHSA-wxrw-gvg8-fqjp
-GHSA-86x4-wp9f-wrr9
+GHSA-69x3-g4r3-p962
+GHSA-xx9g-fh25-4q64
 GHSA-4jqp-9qjv-57m2
 GHSA-f5x2-vj4h-vg4c
 GHSA-ff64-7w26-62rf
