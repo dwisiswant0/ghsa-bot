@@ -1,4 +1,4 @@
-GHSA-cwc3-p92j-g7qm
+GHSA-9cp7-3q5w-j92g
 GHSA-87x4-j8vh-p5qf
 GHSA-fpx8-73gf-7x73
 GHSA-wjpw-4j6x-6rwh
