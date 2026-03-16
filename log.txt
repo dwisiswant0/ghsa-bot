@@ -1,5 +1,5 @@
-GHSA-7x23-j8gv-v54x
-GHSA-hqjg-pww4-pcgq
+GHSA-hcch-w73c-jp4m
+GHSA-vrm6-8vpv-qv8q
 GHSA-4j3x-hhg2-fm2x
 GHSA-44vg-5wv2-h2hg
 GHSA-g93w-mfhg-p222
