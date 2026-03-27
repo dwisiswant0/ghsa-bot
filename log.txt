@@ -1,8 +1,8 @@
-GHSA-jfjg-vc52-wqvf
-GHSA-43v7-fp2v-68f6
-GHSA-fxcw-h3qj-8m8p
-GHSA-f7xc-5852-fj99
-GHSA-c83f-3xp6-hfcp
+GHSA-2qvq-rjwj-gvw9
+GHSA-55q8-2gwx-29pc
+GHSA-87j9-m7x6-hvw2
+GHSA-9h59-p45g-445h
+GHSA-f2f3-9cx3-wcmf
 GHSA-vpgc-2f6g-7w7x
 GHSA-7h8w-hj9j-8rjw
 GHSA-xw7x-h9fj-p2c7
