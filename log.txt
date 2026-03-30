@@ -1,8 +1,8 @@
-GHSA-cw7v-45wm-mcf2
-GHSA-qp6f-w4r3-h8wg
-GHSA-frv4-x25r-588m
-GHSA-qr99-7898-vr7c
-GHSA-46j8-vpx8-6p72
+GHSA-r4fj-r33x-8v88
+GHSA-w73w-g5xw-rwhf
+GHSA-65xw-vw82-r86x
+GHSA-wp76-gg32-8258
+GHSA-x27p-5f68-m644
 GHSA-vchx-5pr6-ffx2
 GHSA-m2h6-4xpq-qw3m
 GHSA-37ch-88jc-xwx2
