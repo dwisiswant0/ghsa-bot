@@ -1,4 +1,4 @@
-GHSA-3vxg-x5f8-f5qf
+GHSA-355h-qmc2-wpwf
 GHSA-x9h5-r9v2-vcww
 GHSA-875v-7m49-8x88
 GHSA-r54v-qq87-px5r
