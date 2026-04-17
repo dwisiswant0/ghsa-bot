@@ -1,4 +1,4 @@
-GHSA-qh43-xrjm-4ggp
+GHSA-v9ww-2j6r-98q6
 GHSA-g82g-m9vx-vhjg
 GHSA-xjw8-8c5c-9r79
 GHSA-r4v4-5mwr-2fwr
