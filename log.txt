@@ -1,6 +1,6 @@
-GHSA-vfmq-68hx-4jfw
-GHSA-rx35-6rhx-7858
-GHSA-jj7c-x25r-r8r3
+GHSA-jxpf-xq2m-q525
+GHSA-ghm9-cr32-g9qj
+GHSA-c3h8-g69v-pjrg
 GHSA-wjxp-xrpv-xpff
 GHSA-vp62-r36r-9xqp
 GHSA-p49j-v9wc-wg57
