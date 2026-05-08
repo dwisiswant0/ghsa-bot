@@ -1,9 +1,9 @@
-GHSA-98h9-4798-4q5v
-GHSA-jfg9-48mv-9qgx
-GHSA-wp5r-2gw5-m7q7
-GHSA-v27g-jcqj-v8rw
-GHSA-6785-pvv7-mvg7
-GHSA-vwrp-x96c-mhwq
+GHSA-xv59-967r-8726
+GHSA-39j6-4867-gg4w
+GHSA-gq5c-rw37-g46c
+GHSA-3pgc-xqg9-cfr6
+GHSA-j944-w549-3453
+GHSA-mcfx-4vc6-qgxv
 GHSA-47x8-96vw-5wg6
 GHSA-qcp4-v2jj-fjx8
 GHSA-vxvc-cg7j-rwqj
