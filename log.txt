@@ -1,4 +1,4 @@
-GHSA-c3ch-22rq-xfwr
+GHSA-r8j5-8747-88cm
 GHSA-gqx7-6552-67hf
 GHSA-5hhf-xmfx-4vvr
 GHSA-jrrg-99xh-5j2q
