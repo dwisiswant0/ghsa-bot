@@ -1,4 +1,4 @@
-GHSA-9277-mp7x-85jf
+GHSA-pgxq-p76c-x9cg
 GHSA-897w-fcg9-f6xj
 GHSA-r9g5-7q8j-958c
 GHSA-x6p3-76f2-xxvh
