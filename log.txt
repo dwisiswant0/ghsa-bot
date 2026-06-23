@@ -1,8 +1,8 @@
-GHSA-4h5r-5jm8-jxjm
-GHSA-4hpg-mp64-x7xq
-GHSA-8mg9-j9cf-54cj
-GHSA-rx78-29qr-5hq8
-GHSA-wc84-j36w-pw4x
+GHSA-wv27-2vqp-j7g5
+GHSA-p9f5-h3rx-j5qw
+GHSA-jq8v-rmf6-65jw
+GHSA-4j89-2c4f-44c6
+GHSA-qc2x-6f54-m6h9
 GHSA-cw4q-gqg5-g38h
 GHSA-mpc8-jxjh-qpgh
 GHSA-24vr-rprv-67rf
