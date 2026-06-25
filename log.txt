@@ -1,5 +1,5 @@
-GHSA-pwpj-p52h-q484
-GHSA-6mmj-jhqj-6c6q
+GHSA-p462-xxwx-pqf4
+GHSA-6c99-87fr-6q7r
 GHSA-x667-r589-43m7
 GHSA-hf68-g98v-wp9g
 GHSA-33g4-646g-qwmm
