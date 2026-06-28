@@ -1,4 +1,4 @@
-GHSA-v23m-ccfg-pq9h
+GHSA-44cp-c3ww-9rv5
 GHSA-j989-f892-2335
 GHSA-7mqq-4v55-88gh
 GHSA-h77m-qrj7-jxcw
