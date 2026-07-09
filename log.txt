@@ -1,8 +1,8 @@
-GHSA-vmfc-9982-2m45
-GHSA-2jcc-mxv7-p3f9
-GHSA-6w3m-4hhp-775q
-GHSA-v3q9-hj7j-63hq
-GHSA-4w5h-hx6r-28q7
+GHSA-6h3c-r723-7fx3
+GHSA-43fc-v873-qw85
+GHSA-c827-pw3m-67w7
+GHSA-9x82-rm84-c6x7
+GHSA-vmwx-m75v-qvch
 GHSA-4hgp-59h5-gvrj
 GHSA-g84h-j7jj-x32p
 GHSA-jgx9-jr5x-mvpv
