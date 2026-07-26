@@ -1,4 +1,4 @@
-GHSA-j6g5-3hh3-pgw8
+GHSA-29w2-fq35-v728
 GHSA-jvxp-qmx7-gjpx
 GHSA-wrjc-x8rr-h8h6
 GHSA-jjmj-jmhj-qwj2
