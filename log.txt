@@ -1,4 +1,4 @@
-GHSA-45qg-252v-3f7p
+GHSA-g65v-27r3-5p6m
 GHSA-c5px-58j2-7fqp
 GHSA-pjp7-q6wp-97qx
 GHSA-wg4g-wm44-ch5j
