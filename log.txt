@@ -1,10 +1,10 @@
-GHSA-9pgf-384g-p7mv
-GHSA-279x-mwfv-vcqv
-GHSA-wm8w-6qjm-cv43
-GHSA-hxvh-4h3w-prp9
-GHSA-hxcr-hm88-mpq6
-GHSA-4vr5-p2gc-h23p
-GHSA-2m8m-jhrm-w6j2
+GHSA-6hr6-w5qg-qmwg
+GHSA-hmqg-cxww-wqhq
+GHSA-8hcv-x26h-mcgp
+GHSA-hq66-cqwq-w95j
+GHSA-pmhh-3w7g-xqp8
+GHSA-9p7c-v5x3-rfx8
+GHSA-3rrr-jr9j-h3q3
 GHSA-xhf4-832v-7xcr
 GHSA-p2rr-rvmm-c5fp
 GHSA-f2r8-jv7c-xqmp
