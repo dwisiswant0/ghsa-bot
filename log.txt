@@ -1,4 +1,4 @@
-GHSA-fp3f-mc75-235c
+GHSA-87fv-vqqr-m4jr
 GHSA-fwg2-594c-jp42
 GHSA-f23p-vx2j-j53r
 GHSA-79qm-7rj5-m7r9
