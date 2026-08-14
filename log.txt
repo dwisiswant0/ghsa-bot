@@ -1,6 +1,6 @@
-GHSA-cxgv-hp74-jj7r
-GHSA-w62w-66v9-vvgv
-GHSA-q939-rpr3-3284
+GHSA-m42h-3232-vpv3
+GHSA-h7p7-w5gc-xj3w
+GHSA-5pq8-3ffp-7w5m
 GHSA-88p2-jj8w-j8qg
 GHSA-6pvm-2vjj-rx4w
 GHSA-3763-qp59-59vf
