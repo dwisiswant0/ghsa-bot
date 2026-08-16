@@ -1,4 +1,4 @@
-GHSA-9q54-f358-3fqf
+GHSA-5pq8-3ffp-7w5m
 GHSA-fpmh-vx4h-xc33
 GHSA-xghw-p77p-3r7x
 GHSA-2j9v-p4xj-cjw2
