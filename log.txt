@@ -1,7 +1,7 @@
-GHSA-66mm-25pp-rfff
-GHSA-2943-5xfg-gq5f
-GHSA-2cp2-2r3c-7p7r
-GHSA-8gq3-vp5j-2grp
+GHSA-jm48-m3rr-9hgg
+GHSA-fwjf-m4qw-9f2x
+GHSA-8jj7-4v57-frf5
+GHSA-w2x5-gv52-9ccv
 GHSA-x2rj-828p-hx9m
 GHSA-hrwp-4hh9-c8r8
 GHSA-26w5-6g95-gj28
