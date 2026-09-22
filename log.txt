@@ -1,5 +1,5 @@
-GHSA-5gmm-hjfj-8ff7
-GHSA-xcw4-53cc-hv32
+GHSA-hf33-q6cf-c66f
+GHSA-phg3-3g28-wq9v
 GHSA-vr5f-w35q-98jp
 GHSA-4227-9989-jrhx
 GHSA-cjgj-2fwf-4c2w
