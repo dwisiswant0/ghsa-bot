@@ -1,5 +1,5 @@
-GHSA-94p9-xgh2-xp45
-GHSA-9h9j-4vrj-gf7g
+GHSA-hf8h-97gm-4x2p
+GHSA-53fp-9jmv-227g
 GHSA-4mh8-r7rc-xpvc
 GHSA-hxh3-vqpv-xpqv
 GHSA-667r-xxjv-c9mm
