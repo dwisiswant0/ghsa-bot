@@ -1,7 +1,7 @@
-GHSA-j3hg-9rp3-5hw9
-GHSA-9h23-53f4-q947
-GHSA-47c3-hpmg-7j6p
-GHSA-x2rp-9qf7-2fmq
+GHSA-7pxr-59rr-hqj2
+GHSA-xpf3-p7gm-7756
+GHSA-m6wq-39m7-9xpp
+GHSA-2mxg-prvg-9jfg
 GHSA-mfxh-vp55-7gc6
 GHSA-9ff2-p842-45wq
 GHSA-mrvp-7wmx-5m4h
