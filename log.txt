@@ -1,5 +1,5 @@
-GHSA-r4hm-p9f9-fj9v
-GHSA-fqpv-mq26-pr4j
+GHSA-m5ph-mmg5-6w5h
+GHSA-48v2-6jcm-fc99
 GHSA-9fpx-fr6j-2vh6
 GHSA-mc8m-rr6c-r5qr
 GHSA-j97h-3f8r-mrjr
